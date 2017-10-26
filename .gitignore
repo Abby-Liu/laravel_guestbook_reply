@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+/app/Todo.php
+/app/Http/Controllers/TodoController.php
+/resources/views/todo
+/database/migrations/2017_10_19_152456_create_todos_table.php
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
